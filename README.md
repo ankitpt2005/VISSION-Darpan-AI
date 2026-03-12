@@ -1,34 +1,16 @@
-# 🌟 DARPAN AI: Data Analytics & Reporting Platform for Accountability in Nation
+# React + Vite
 
-> **Transforming Civic Complaints into Democratic Accountability using AI.**
-> **Team VISSION** (Delhi Skill and Entrepreneurship University - DSEU) | Domain: Data Mining & Processin
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🚀 The Core Manifest (How It Works)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-**1️⃣ The Citizen Flow (Anonymous & Empowered)**
-* **Location-Based Feed:** See and upvote civic issues raised in your ward.
-* **Voice-to-Text Reporting:** Speak the issue in your local language; AI handles the rest.
-* **100% Anonymity:** Zero government tracking. App syncs via an *Anonymous Cloud Vault* using a recovery key.
+## React Compiler
 
-**2️⃣ The AI Engine (The Brain)**
-* **K-Means Clustering:** Groups duplicate complaints into singular "Mega Hotspots" to save administrative time.
-* **NLP Promise Extraction:** Matches the reported issue with the past election manifesto of that ward's politician.
-* **7x7 Escalation Matrix:** If an issue is unresolved, AI auto-escalates it 7 times, every 7 days, up to the higher authorities.
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-**3️⃣ The Governance Dashboard (The Mirror)**
-* **Live 3D Dark-Mode Heatmap:** Admin sees verified problem areas glowing red based on citizen upvotes.
-* **Dynamic Trust Scores:** Departments and Politicians get real-time "Trust Scores" based on SLA compliance.
-* **Truth Reports:** Once resolved, AI matches before/after photos and sends a transparent Truth Report to the citizen.
+## Expanding the ESLint configuration
 
----
-
-## 🛠️ Technology Stack
-* **AI & NLP:** Python, spaCy, HuggingFace, Scikit-Learn (K-Means)
-* **Backend System:** FastAPI, PostgreSQL + PostGIS (Geospatial Mapping)
-* **Frontend Dashboard:** React.js, Mapbox API
-* **Deployment:** Docker, AWS S3 (for secure image uploads)
-
----
-*Created with ❤️ by Team VISSION for India Innovates Hackathon 2026*
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
