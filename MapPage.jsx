@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/logo.png'; // 👈 Logo import
+import logo from './logo.png'; // 👈 Logo import
 
 const MapPage = () => {
   return (
@@ -74,5 +74,6 @@ const MapPage = () => {
     </div>
   );
 };
+
 
 export default MapPage;
