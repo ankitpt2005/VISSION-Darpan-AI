@@ -1,16 +1,17 @@
-# React + Vite
+# 🌟 DARPAN AI: Data Analytics & Reporting Platform for Accountability in Nation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Transforming Civic Complaints into Democratic Accountability using AI.**
+> **Team VISSION** (DSEU) | Domain: Data Mining & Processing
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 The Working Prototype
+Humne is Hackathon ke liye ek **High-Fidelity Functional UI** banaya hai:
+* **Darpan Feed:** Clean & responsive civic social network.
+* **Live Heatmap:** Problem-tracking animations ke saath.
+* **Civic Leaderboard:** Citizens ke liye gamified reward system.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technology Stack
+* **Frontend:** React.js, Tailwind CSS, Vite
+* **Backend:** Python (FastAPI)
+* **AI Logic:** K-Means Clustering & NLP for automated escalation.
