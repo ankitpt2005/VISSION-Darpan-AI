@@ -1,10 +1,7 @@
 # 🌟 DARPAN AI: Data Analytics & Reporting Platform for Accountability in Nation
 
 > **Transforming Civic Complaints into Democratic Accountability using AI.**
-> **Team VISSION** (Delhi Skill and Entrepreneurship University - DSEU) | Domain: Data Mining & Processing
-
-### 🔗 Important Links
-* **🎨 Interactive UI Prototype (Figma):** [INSERT YOUR FIGMA LINK HERE - Make sure it's public!]
+> **Team VISSION** (Delhi Skill and Entrepreneurship University - DSEU) | Domain: Data Mining & Processin
 
 ---
 
