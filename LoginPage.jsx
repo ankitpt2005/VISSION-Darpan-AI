@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/logo.png'; // 👈 Make sure logo.png is in src/assets/
+import logo from './logo.png'; // 👈 Make sure logo.png is in src/assets/
 
 const LoginPage = ({ onLogin }) => {
   return (
@@ -76,5 +76,6 @@ const LoginPage = ({ onLogin }) => {
     </div>
   );
 };
+
 
 export default LoginPage;
