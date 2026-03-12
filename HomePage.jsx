@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from './assets/logo.png'; // 👈 Logo import kiya
+import logo from './logo.png'; // 👈 Logo import kiya
 
 const HomePage = () => {
   const [activeTab, setActiveTab] = useState('Top');
@@ -150,5 +150,6 @@ const HomePage = () => {
     </div>
   );
 };
+
 
 export default HomePage;
