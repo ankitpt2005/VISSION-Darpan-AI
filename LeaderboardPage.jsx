@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/logo.png'; // 👈 Logo for branding
+import logo from './logo.png'; // 👈 Logo for branding
 
 const LeaderboardPage = () => {
   const leaders = [
@@ -108,5 +108,6 @@ const LeaderboardPage = () => {
     </div>
   );
 };
+
 
 export default LeaderboardPage;
